@@ -248,4 +248,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-**.mugration/
+**/mugrations/
