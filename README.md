@@ -1,7 +1,7 @@
 <h1>Practice_List</h1>
--------------
-bookmark
-
+* * *
+<h2>bookmark</h2>
+* * *
 - github 소스 -> PyCharm 프로젝트
 - bookmark 앱 만들기
 - models Bookmark 만들기
